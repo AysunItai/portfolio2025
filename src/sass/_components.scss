@@ -159,13 +159,13 @@
     margin-top: -2rem;
     background-color: $cyan-green;
     padding:2rem;
-    height: 30rem;
+    min-height: 30rem;
     display:flex;
     align-items: flex-start;
     justify-content: center;
 @media screen and (max-width: 550px) {
     align-items: center;
-        height: 35rem;
+        //height: 35rem;
     }
         @media screen and (max-width: 450px) {
             
