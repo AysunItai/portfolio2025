@@ -1,0 +1,26 @@
+//colors
+
+ $pink:#E19DB0;
+ $pink-dark:#E08B91; 
+ $pink-light:#EBE3E5;
+ $cyan-green:#80C5CD;
+ $gray-dark:#5D656B;
+
+
+
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+#root{
+    width:100%;
+    height:100%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    background-color:white;
+}

@@ -1,0 +1,2 @@
+from the mentoring page padding must be removed from 
+hero and hero top
